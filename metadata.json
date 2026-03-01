@@ -1,0 +1,7 @@
+{
+  "name": "Min Biografi",
+  "description": "En personlig biograf-app til musikere og forfattere, der organiserer livserindringer i smukke bog-temaer.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
